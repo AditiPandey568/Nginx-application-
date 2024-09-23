@@ -1,4 +1,4 @@
-Exp Running Nginx Application using Docker and Managing Docker Volume
+Running Nginx Application using Docker and Managing Docker Volume
 ============================================================
 
 This demonstrates how to run an Nginx application using Docker and manage the Docker volume.
