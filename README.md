@@ -33,4 +33,4 @@ Assumes that you have basic knowledge of Docker and Nginx. If you are new to Doc
 
 Clone the repository:
    ```bash
-
+https://github.com/AditiPandey568/Nginx-application-.git
