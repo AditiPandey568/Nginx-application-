@@ -31,5 +31,6 @@ This demonstrates how to run an Nginx application using Docker and manage the Do
 Assumes that you have basic knowledge of Docker and Nginx. If you are new to Docker and Nginx, please refer to the official documentation for more information.
 
 
-#CLONE THE REPOSITORY-
+Clone the repository:
+   ```bash
 
